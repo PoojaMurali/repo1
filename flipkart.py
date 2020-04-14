@@ -1,5 +1,4 @@
 from selenium import webdriver
-from time import sleep
 
 url = "https://www.flipkart.com/"
 driver = webdriver.Chrome("Chromedriver.exe")

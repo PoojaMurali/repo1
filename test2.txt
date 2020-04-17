@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BA5B-E9D2
+
+ Directory of C:\Users\PoojaM\Desktop\gitproj
+
+23-03-2020  13:14    <DIR>          .
+23-03-2020  13:14    <DIR>          ..
+20-03-2020  18:27                22 index.html
+20-03-2020  18:26                 9 test1.txt
+23-03-2020  13:14                 0 test2.txt
+               3 File(s)             31 bytes
+               2 Dir(s)  188,166,258,688 bytes free

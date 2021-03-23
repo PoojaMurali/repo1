@@ -1,0 +1,4 @@
+(101, 'RP ajendra', 'CS1', 'IBM1')
+(102, 'RJ ajendra', 'CS2', 'IBM2')
+(103, 'RS ajendra', 'CS3', 'IBM3')
+(104, 'RK ajendra', 'CS4', 'IBM4')

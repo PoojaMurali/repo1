@@ -1,0 +1,32 @@
+1) Write a program to perform reverse of the string using robot ( Eg in Python: name = "Danfoss"  --> output: 'ssofnaD')
+
+2) Create a List variable in robot framework 
+   numbers = ['one', 'two', 'three', 'four', 'five']
+   a)  Do slicing operation with some example
+   b)  check 'five' is present in the List variable
+   c)  verify condition that list length should be greater than 3, Fails if it is lesser than 3
+   d)  convert list values to a single string (Output:  onetwothreefourfive)
+
+3) Write a program to print keys and values in output using for loop in robot
+   Student = { 'name': 'abc', 'place': 'xyz', 'degree': 'BE'}
+
+4) Write a calculator program using Robot framework scripts
+    a) Create test cases for each operations(Addition, Subtraction, Multiplication, Division)
+    b) Create User defined keywords with Arguments for each operation and then call your keywords with arguments in the appropriate test cases (All keywords are created in resource file and import the resouce file to use the keywords in test cases)
+
+
+5) Create python functions for Addition, Subtraction, Multiplication, Division and integrate in robot
+   --->  perform_addition   (function names example)
+   Write test cases for each operations.
+
+------------------------------------------------------------------Assignment--------------------------------------------------------------------------------
+
+1) Write a Python library for Student, it should contain __init__ method to initialise some of the variables (firstname, lastname, email_id)
+
+2) Create a method to get firstname of the student, to get email id, to get last name, to get total and to getavg
+
+3) Student Python library should be integrated in robot, then create test cases for each method which is created in python (refer 2nd point)
+
+4) Example:Test1 à Calling Studentpythonlibrary method i.e getfirstname   à log returned value from the keyword
+
+5) For subjects use 3 subjects and pass the marks as arguments in robot test scripts
